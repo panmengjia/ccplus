@@ -2,7 +2,16 @@
 
 using namespace std;
 
-void main()
+int main()
+{
+
+
+	return 0;
+}
+
+
+
+void testPlusPlus()
 {
 	//c ++
 	//https://blog.csdn.net/bit_part/article/details/81875998?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf
@@ -45,5 +54,5 @@ void main()
 	cout << j << endl;  //18
 	system("pause");
 	
-}
+} 
 
