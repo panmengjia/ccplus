@@ -2,9 +2,12 @@
 
 using namespace std;
 
+void testPlusPlus();
+
 int main()
 {
 
+	testPlusPlus();
 
 	return 0;
 }
